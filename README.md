@@ -16,7 +16,7 @@ As a passionate Software Engineer in Dhaka, I excel at integrating robust, high-
 💻 Technical Stack
 
 * AI/ML: PyTorch, TensorFlow, OpenCV, NumPy, Scikit-learn
-* Full-Stack: PHP, React, JavaScript, MySQL, Ajax
+* Full-Stack: PHP, Laravel, React, JavaScript, MySQL, Ajax
 * Tools: Git, LaTeX, Hostinger, Linux
 
 ### 📧 Reach Me
